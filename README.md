@@ -2,8 +2,8 @@
 
 DevCamp 2.0 final project: a full-stack MERN application (MongoDB, Express, React, Node.js, JavaScript only) for tracking personal income and expenses, setting monthly budgets and viewing reports.
 
-**Live link:** _add your deployed URL here_
-**GitHub:** _add your repository URL here_
+**Live link:** https://finance-tracker-devcamp-task-4.onrender.com
+**GitHub:** https://github.com/Yojit27/Finance-tracker--devcamp-task-4
 
 ---
 
@@ -393,9 +393,4 @@ Commit and push to `main`. Render (and Vercel/Netlify) redeploy automatically. I
 
 ---
 
-## 13. Submission checklist
 
-- [ ] Code pushed to a GitHub repository (no `.env` files committed)
-- [ ] Live deployed link works (sign up, add transaction, refresh a page)
-- [ ] Links added at the top of this README
-- [ ] Both links submitted as required by DevCamp 2.0
